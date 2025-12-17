@@ -1,5 +1,7 @@
 # Workout CSV CLI
 
+[![CI](https://github.com/ebarber321/workout-python/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/ebarber321/workout-python/actions/workflows/ci.yml)
+
 Local CSV-based workout logger and movement catalog.
 
 Features
