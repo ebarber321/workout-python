@@ -1,0 +1,13 @@
+id,name,category,default_unit,primary_muscle,secondary_muscles,notes,body_region,movement_group,is_compound,bilbo,warmup_sets,main_muscle_group,strength_upper,strength_lower,hypertrophy_pull,hypertrophy_push,hypertrophy_legs
+squat,Back Squat,squat,kg,Quadriceps,Hamstrings;Glutes,Compound lower-body lift,,,,,,,,,,,,
+bench,Bench Press,press,kg,Pectorals,Triceps;Delts,Horizontal press,,,,,,,,,,,,
+dead,Deadlift,hinge,kg,Hamstrings;Glutes,Lower back,Pull from floor,,,,,,,,,,,,
+ohp,Overhead Press,press,kg,Deltoids,Triceps,Standing press,,,,,,,,,,,,
+chin,Chin-Up,pull,bodyweight,Latissimus Dorsi,Biceps,Weighted or bodyweight,,,,,,,,,,,,
+bayesian_cable_curl,Bayesian Cable Curl,Bayesian Curl,,Biceps,,,Arms,Bayesian Curl,No,No,1,Biceps,yes,,yes,,
+bench_dip,Bench Dip,Triceps Pressdown/Kickback,,Triceps,,,Arms,Triceps Pressdown/Kickback,No,No,1,Triceps,yes,,,,Yes
+cable_rope_hammer_curl,Cable Rope Hammer Curl,Mixed Curl,,Biceps,,,Arms,Mixed Curl,No,No,1,Biceps,yes,,yes,,
+cable_triceps_kickback,Cable Triceps Kickback,Triceps Pressdown/Kickback,,Triceps,,,Arms,Triceps Pressdown/Kickback,No,No,1,Triceps,yes,,,,Yes
+concentration_cable_curl,Concentration Cable Curl,Preacher Curl,,Biceps,,,Arms,Preacher Curl,No,No,1,Biceps,yes,,yes,,
+db_concentration_curl,DB Concentration Curl,Preacher Curl,,Biceps,,,Arms,Preacher Curl,No,No,1,Biceps,yes,,yes,,
+db_curl,DB Curl,Mixed Curl,,Biceps,,,Arms,Mixed Curl,No,No,1,Biceps,yes,,yes,,

@@ -1,0 +1,2 @@
+workout_id,date,start_time,movement_id,movement_name,set_number,set_type,cluster_id,reps,load,unit,rest_seconds,rpe,tags,notes,created_at
+a141302d,2025-12-17,06:23:10,barbell_bench_press,Barbell Bench Press,1,work,,5,100.0,kg,,,,,2025-12-17T06:23:10.666265
